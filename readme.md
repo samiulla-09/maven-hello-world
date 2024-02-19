@@ -52,7 +52,7 @@ Running `mvn package` does a compile and creates the target directory, including
     target/test-classes/com/mycompany/app/AppTest.class
     murphy:my-app pdurbin$ 
     murphy:my-app pdurbin$ java -cp target/my-app-1.0-SNAPSHOT.jar com.mycompany.app.App
-    Hello World!
+    Hello World!.
 
 Running `mvn clean compile exec:java` requires http://mojo.codehaus.org/exec-maven-plugin/
 
